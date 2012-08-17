@@ -13,8 +13,6 @@
  *
  * PHP version 5.3
  *
- * LICENSE: No License yet
- *
  * @author    Rod McNew <rodmcnew@gmail.com>
  * @license   http://framework.zend.com/license/new-bsd New BSD License
  */
