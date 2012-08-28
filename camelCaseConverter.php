@@ -1,7 +1,7 @@
 <?php
 
 /*
- * Converts CamelCase to lower-case-hyphens
+ * Converts camelCase to lower-case-hyphens
  *
  * @param string $value the value to convert
  *
@@ -13,7 +13,7 @@ function camelToHyphens($value)
 }
 
 /*
- * Converts lower-case-hyphens to CamelCase
+ * Converts lower-case-hyphens to camelCase
  *
  * @param string $value the value to convert
  *
