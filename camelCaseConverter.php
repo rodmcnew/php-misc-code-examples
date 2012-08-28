@@ -1,6 +1,13 @@
 <?php
 
 /*
+ * Camel case conversion functions
+ *
+ * @author    Rod McNew <rodmcnew@gmail.com>
+ * @license   http://framework.zend.com/license/new-bsd New BSD License
+ */
+
+/*
  * Converts camelCase to lower-case-hyphens
  *
  * @param string $value the value to convert
