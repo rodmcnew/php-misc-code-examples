@@ -1,6 +1,6 @@
 <?php
 /**
- * Generates and random string consisting of numbers and uppercase letters
+ * Generates random strings consisting of numbers and uppercase letters
  */
 for ($i = 1; $i <= 100; $i++) {
     echo randomString(6) . '<br>';
