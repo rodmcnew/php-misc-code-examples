@@ -12,7 +12,7 @@ while (true) {
     $startTime = microtime(true);
     $i++;
     exec($command);
-    echo $i . ") " . number_format(
+    echo $i . ")\t" . number_format(
             (microtime(true) - $startTime)
             * 1000,
             1
